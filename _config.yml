@@ -23,15 +23,19 @@ email: ""
 description: ""
 baseurl: "" # the subpath of your site
 url: "" # the base hostname & protocol
-twitter_username: ""
+#twitter_username: "canosp" - todo
 github_username:  "canosp"
 
-social_links:
-  github: canosp
+#social_links:
+#  github: canosp
+  #twitter: canosp
 
 # Build settings
 theme: minima
 
+
+plugins:
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
