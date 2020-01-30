@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: post
 title: Mozilla - Automating Firefox Support Forum Tagging
+permalink: /projects/mozilla-firefox-support/
+type: current
 ---
 
 Firefox desktop users file anywhere from 30 support tickets per day during quiet times up to 50 or more support tickets per day just after new releases at support.mozilla.org (SUMO). In the event of a Firefox incident, we can receive almost 300 tickets in one day (e.g., the [add-on incident in 2019](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/)). While this is too much for staff and volunteers to tag manually, annotations provide immense value when triaging and responding to support questions.
+
+<!--more-->
 
 ### Outline
 The aim of this project is to develop and evaluate a prototype system for enriching support request submissions by automated annotation and language analysis. A preliminary dataset will be prepared ahead of the project to provide the basis for exploratory analysis. Subsequent refinements should focus on goals pertaining to achieving accurate annotations consistent with human reviewers.

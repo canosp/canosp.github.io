@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: post
 title: IBM - OpenJ9 JITServer Log Management
+permalink: /projects/ibm-openj9-jitserver/
+type: current
 ---
 
 The [Eclipse OpenJ9 project](https://github.com/eclipse/openj9) is an open source runtime for running Java applications. One of the newest innovations in the Eclipse OpenJ9 codebase is a project called JIT-as-a-Service. Traditionally, a JIT compiler runs inside the JVM compiling Java bytecode to binary machine instructions to improve performance. The downside of this process is that it takes CPU and memory resources away from the application which is running - these resources are used to run the compiler. The JIT-as-a-Service project decouples the JIT compiler from the rest of the JVM so that it can be run as a service in the cloud! This new compilation model is more challenging to debug, but opens a number of exciting new possibilities.
+
+<!--more-->
 
 When debugging a problem in dynamically compiled (“jitted”) code developers typically resort to compilation logs which detail the decisions taken by the JIT compiler and show the intermediate language (IL) representation of the compiled method after each optimization pass. Unfortunately, due to the non-deterministic nature of the JIT compiler, a compilation log generated in a subsequent run may not faithfully describe the native code generated in a previous run. On the other hand, proactively logging all the methods is prohibitively expensive both in terms of CPU and memory footprint. However, since in a JIT-as-a-Service solution the compilations happen in a remote JITServer process, consuming more resources for the sake of producing the compilation logs becomes feasible.
 

@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: post
 title: IBM - OMR Tree Interpreter
+permalink: /projects/ibm-omr-tree/
+type: current
 ---
 
 The [Eclipse OMR project](https://github.com/eclipse/omr) is an open-source and reusable toolkit implemented in C/C++ for building runtimes. It includes code for important language-agnostic runtime components, such as a JIT compiler and garbage collector as well as diagnostic tooling and platform abstraction technologies. There have been successful proof-of-concept projects leveraging OMR to enable JIT compilation for languages such as Lua, WebAssembly, and Python and it is also used to build the [Eclipse OpenJ9 JVM](https://github.com/eclipse/openj9). The Eclipse OMR compiler has an internal language-independent intermediate representation (IR) called OMR trees. Source programs are translated into OMR trees before being processed by the rest of the OMR compiler. OMR trees are a really useful tool, but we currently do not have an interpreter to evaluate OMR trees without first translating them to binary machine instructions.
+
+<!--more-->
 
 ### Outline
 The goal of this project is to build an interpreter for OMR trees to sever two goals: 1) create an abstract interpreter which generates constraint information for program values (this is used to drive program optimizations and 2) create an interactive terminal to let people write OMR trees and understand how they work.

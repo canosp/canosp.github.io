@@ -32,6 +32,7 @@ github_username:  "canosp"
 
 # Build settings
 theme: minima
+excerpt_separator: <!--more-->
 
 
 plugins:

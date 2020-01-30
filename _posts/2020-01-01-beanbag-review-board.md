@@ -1,11 +1,15 @@
 ---
-layout: page
+layout: post
 title: Beanbag - Review Board
+permalink: /projects/beanbag-review-board/
+type: current
 ---
 
 Review Board is a powerful web-based code review tool that helps developers do peer review as they write code. Code review is a standard industry practice used to find bugs,improve quality, and mentor junior engineers.
 
 Review Board is used by thousands of software companies including Twitter, Yahoo, and VMware, as well as many open-source projects like Apache and KDE.
+
+<!--more-->
 
 Students working on Review Board will have the opportunity to learn about back-end web development using Python and Django, as well as front-end development using HTML, CSS, Javascript, jQuery, and Backbone.js. Source control is managed via Git on GitHub. All patches are reviewed using Review Board, and students will be participating in the code review process.
 
