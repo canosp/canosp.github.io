@@ -6,18 +6,20 @@ image: '/images/60.jpg'
 weight: 4
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+Your sponsorship will primarily go towards the Code Sprint to help us:
+Pay for out-of-area students’ transportation to and from the Code Sprint
+Pay for out-of-area students’ accommodations
+Provide meals, non-alcoholic beverages, and snacks for students and mentors
 
-![Time to think]({{site.baseurl}}/images/31.jpg)
-*Time to think*
+There are four levels of sponsorship for CANOSP:
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+| Amount | Level | Perks |
+|-----------------|-------------------|
+| 10,000 | Diamond | Gold + Recognition on t-shirts |
+| 5,000 | Gold | Silver +  Recognition on the YouTube videos (start and end) |
+| 3,000 | Silver | Bronze + Company-provided swag in bag and recognition during the code sprint |
+| 1,000 | Bronze | Recognition on webpage and company-provided page in bag (e.g., company info or internship/job opportunities) |
 
-<p><iframe src="https://www.youtube.com/embed/ZSPkcpGmflE" frameborder="0" allowfullscreen></iframe></p>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion.
-
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray.
+We are very grateful for your support, which makes it possible for us to run this unique initiative to bring together students from all across Canada and give them valuable experience in distributed development, open-source software, and teamwork.
 
 ***
