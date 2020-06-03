@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: For Project Mentors
+permalink: /mentors/
 image: '/images/60.jpg'
-weight: 6
+weight: 2
 ---
 
 Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.

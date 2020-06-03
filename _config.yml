@@ -2,7 +2,7 @@
 # General Site Settings
 title: CANOSP
 logo: '/assets/logo.png'
-description: Canada Open-Source Project Initiative.
+description: Canada Open-Source Projects
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://canosp.ca" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,9 +17,9 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Aditu
-  description: Thoughts, stories and ideas.
-  image: '/images/01.jpg'
+  title: CANOSP
+  description: Canada Open-Source Projects
+  image: '/assets/logo.png'
 
 
 #-------------------------------
