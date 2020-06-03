@@ -2,7 +2,7 @@
   <li class="nav__item">
     <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
   </li>
-  {% assign pages = site.pages | sort:'weight', 'last'  %}
+  {% assign pages = site.pages | sort:'weight', 'last' %}
   {% for page in pages %}
     {% unless page.name == 'tags.html' or page.name == '404.html' %}
       {% if page.title %}
