@@ -6,17 +6,18 @@ image: '/images/60.jpg'
 weight: 2
 ---
 
-Information we need:
-- Project Name
-- Project Institution/Affiliation
-- Project Description
-- Project URL/repo/documentation if any
-- Project/Affiliated social media if any
-- List of mentors (TODO: info from mentors?)
-- Minimum/Maximum number of students on project per semester
-- Estimated number of semesters in CANOSP
-- Required skills/technologies/experience/competencies
-- Preferred skills/technologies/experience/competencies
-- Project Goals and Example Student Tasks
+### How to join CANOSP
+We welcome free and open-source (FOSS) projects with public repositories to participate in CANOSP!  We require at least one Project Mentor for each participating project, but only one mentor needs to fill out the form at the bottom of this page.  Projects can participate for a single semester, a number of semesters, or on an ongoing basis.
+
+### What to Expect as a Project Mentor
+- Onboard students assigned to your project before and during the Code Sprint
+- Attend the Code Sprint
+- Assign tasks to students and review their work
+- Hold weekly online meetings with students
+- Provide a mid-term and final evaluation for each student
+- Mentor and assist students throughout the semester
+
+### Project Mentor Form
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdUmLz6P6i0fOpeaG8uNNmuG5dftTxl7ZW2THIgCT5DdSCd-g/viewform?embedded=true" width="800" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ***
