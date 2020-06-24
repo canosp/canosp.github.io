@@ -11,7 +11,7 @@ Thank you for your interest in CANOSP!  The best way to get involved is to conta
 
 | University | Faculty Mentor | Faculty Mentor Contact | Application |
 |------------|----------------|------------------------|-------------|
-| University of Alberta| Dr. Karim Ali | [Click to Email](mailto:karim.ali+canosp@ualberta.ca) | [UAlberta Fall 2020 Application](https://forms.gle/3jLmSfkGGDEfRy6a9) |
+| University of Alberta| Karim Ali | [Click to Email](mailto:karim.ali+canosp@ualberta.ca) | [UAlberta Fall 2020 Application](https://forms.gle/3jLmSfkGGDEfRy6a9) |
 
 ### How to get CANOSP at Your University
 We welcome all Canadian post-secondary institutions that offer a Bachelor in Computing Science or equivalent degree to participate in CANOSP!  If your school is not on the list above, it means that CANOSP is not yet offered there.  The [Faculty Mentors](/faculty) page contains information for professors about CANOSP and an application to participate in the program.  Alternately, you can [Contact Us](/contactus) to see if we are currently working toward getting your university on board!
