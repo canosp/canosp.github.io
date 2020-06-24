@@ -11,9 +11,9 @@ We welcome all Canadian post-secondary institutions that offer a Bachelor in Com
 ### What to Expect as a Faculty Mentor
 - Handle student applications and screening  
 - Handle distribution of mid-term and final evaluations from mentors  
-- Make yourself available to CANOSP students at your school (e.g. office hours)  
+- Make yourself available to CANOSP students at your school (e.g., office hours)  
 - Help disseminate information about CANOSP to your department  
-- Be responsive to communications from CANOSP Organizers and Project Mentors  
+- Be responsive to communications from CANOSP organizers and project mentors  
 
 
 ### Faculty Mentor Form
