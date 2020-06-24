@@ -7,9 +7,9 @@ weight: 4
 ---
 
 Your sponsorship will primarily go towards the Code Sprint to help us:  
-- Pay for out-of-area students’ transportation to and from the Code Sprint  
+- Pay for out-of-area students’ transportation to and from the Code Sprint venue
 - Pay for out-of-area students’ accommodations  
-- Provide meals, non-alcoholic beverages, and snacks for students and mentors  
+- Provide meals, beverages, and snacks for students and mentors
 
 There are four levels of sponsorship for CANOSP:
 
@@ -20,6 +20,6 @@ There are four levels of sponsorship for CANOSP:
 | $3,000 | Silver | Bronze + Company-provided swag in bag and recognition during the code sprint |
 | $1,000 | Bronze | Recognition on webpage and company-provided page in bag (e.g., company info or internship/job opportunities) |
 
-We are very grateful for your support, which makes it possible for us to run this unique initiative to bring together students from all across Canada and give them valuable experience in distributed development, open-source software, and teamwork.
+We are very grateful for your support, which makes it possible for us to run this initiative to bring together students from all across Canada and give them valuable experience in distributed development, open-source software, and teamwork.
 
 ***
