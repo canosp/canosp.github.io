@@ -1,26 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="en">
 
-  {%- include head.html -%}
+{% include head.html %}
 
-  <body>
+<body>
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
 
-    {%- include header.html -%}
+  {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-    <script>
-        $(document).ready(function() {
-            $('li.active').removeClass('active');
-            $('a[href="' + location.pathname + '"]').closest('li').addClass('active'); 
-            });
-    </script>
-  </body>
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main> 
+  <!-- end content -->
+  
+  <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+  {% include footer.html %}
+  {% include javascripts.html %}
+</body>
 
 </html>
