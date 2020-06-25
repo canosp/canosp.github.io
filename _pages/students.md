@@ -2,7 +2,6 @@
 layout: page
 title: For Students
 permalink: /students/
-image: '/images/60.jpg'
 weight: 1
 ---
 

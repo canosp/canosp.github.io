@@ -2,7 +2,6 @@
 layout: page
 title: For Project Mentors
 permalink: /mentors/
-image: '/images/60.jpg'
 weight: 2
 ---
 

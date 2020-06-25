@@ -2,7 +2,6 @@
 layout: page
 title: Contact Us
 permalink: /contactus/
-image: '/images/60.jpg'
 weight: 5
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: Sponsor Us
 permalink: /sponsors/
-image: '/images/60.jpg'
 weight: 4
 ---
 

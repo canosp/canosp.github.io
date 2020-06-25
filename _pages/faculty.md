@@ -2,7 +2,6 @@
 layout: page
 title: For Faculty Mentors
 permalink: /faculty/
-image: '/images/60.jpg'
 weight: 3
 ---
 ### How to Join CANOSP
