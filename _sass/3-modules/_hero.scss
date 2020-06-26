@@ -25,7 +25,7 @@
     right: 0;
     z-index: 1;
     border-radius: 30px;
-    background-color: rgba(#10111e, 0.6);
+    background-color: rgba(#10111e, 0.1);
   }
   @media only screen and (max-width: $desktop) {
     &::before {
@@ -35,8 +35,8 @@
 }
 
 .hero__image {
-  padding-top: 50%;
-  min-height: 280px;
+  min-height: 150px;
+  padding-top: 25%;
   user-select: none;
   img {
     position: absolute;
@@ -49,7 +49,7 @@
     padding-top: 55%;
   }
   @media only screen and (max-width: $tablet) {
-    padding-top: 65%;
+    /*padding-top: 65%; */
   }
 }
 
@@ -79,6 +79,8 @@
   font-size: 18px;
   color: rgba($white, .8);
   margin: 0;
+  height: 100%;
+  vertical-align: text-bottom;
   @media only screen and (max-width: $mobile) {
     font-size: 15px;
     line-height: 21px;
