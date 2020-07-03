@@ -2,8 +2,10 @@
 # General Site Settings
 title: CANOSP
 logo: '/assets/logo.png'
-description: Canada Open-Source Projects
-longdescription: 'The Canada Open-Source Projects (CANOSP) initiative is a Canada-wide academic program that connects top students from different universities to work on open-source projects over the course of a semester. CANOSP is an excellent opportunity for students at your institution to meet other students from computing science programs across the country, connect with industry, learn about open-source development, bolster their portfolios, and strengthen their skills as successful developers and software engineers. We aim to offer this course during Fall and Winter semesters each year in cooperation with our project partners and sponsors.'
+longdescription: Canada Open-Source Projects
+description: 'Canada Open-Source Projects (CANOSP) is an academic program that connects top students from Canadian universities to work on open-source projects over the course of a semester.
+<br /><br />
+CANOSP is an excellent opportunity for participants to meet other students fromacross the country, connect with industry, learn about open-source development, bolster their portfolios, and strengthen their skills as software engineers.'
 landingimage: '/assets/CANOSP.png'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://canosp.ca" # The base hostname & protocol for your site, e.g. http://example.com

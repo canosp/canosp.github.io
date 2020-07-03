@@ -7,12 +7,12 @@ weight: 3
 ### How to Join CANOSP
 We welcome all Canadian post-secondary institutions that offer a Bachelor in Computing Science or equivalent degree to participate in CANOSP!  We require a Faculty Mentor at each participating school, so if you or someone you know is interested in taking on the role, please fill out the form at the bottom of this page.  If you have any questions, concerns, or feedback about CANOSP, please [Contact Us](/contactus)!
 
-### Responsibilities
-- Handle student applications and screening  
-- Handle distribution of mid-term and final evaluations from mentors  
-- Make yourself available to CANOSP students at your school (e.g., office hours)  
+### Faculty Mentor Responsibilities
+- Student applications and screening each semester  
+- Distribute mid-term and final evaluations from mentors  
+- Be available to CANOSP students at your school (e.g., office hours)  
 - Help disseminate information about CANOSP to your department  
-- Be responsive to communications from CANOSP organizers and project mentors  
+- Respond to communications from CANOSP organizers and project mentors  
 
 
 ### Faculty Mentor Form
