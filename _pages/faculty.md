@@ -15,6 +15,10 @@ We welcome all Canadian post-secondary institutions that offer a Bachelor in Com
 - Respond to communications from CANOSP organizers and project mentors  
 
 
+### Current Faculty Mentors
+
+{% include_relative faculty_mentors_list.md %}
+
 ### Faculty Mentor Form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSes0hIEk8nj5guKuvb-DjZkMbxOrYPTlmKbvkgbycEYsX6eFw/viewform?embedded=true" width="800" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
