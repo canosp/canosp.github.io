@@ -8,7 +8,7 @@
   background-color: $dark;
   @media only screen and (max-width: $desktop) {
     border-radius: 30px;
-  } /*
+  } */
   @media only screen and (max-width: $mobile) {
     box-shadow: none;
   }
@@ -105,4 +105,5 @@
   @media only screen and (max-width: $mobile) {
     margin: 20px 0 50px;
   }
+	
 }
