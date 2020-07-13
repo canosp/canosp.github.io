@@ -9,6 +9,16 @@
   }
 }
 
+.headerinfo {
+	position: relative; 
+	margin-bottom: 10px; 
+	width: 100%; 
+	background-color: red; 
+	font-size: 13px; 
+	max-width: 1500px; 
+	text-align: center;
+	}
+
 .header__inner {
   position: relative;
   display: flex;
