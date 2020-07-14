@@ -5,7 +5,7 @@ logo: '/assets/logo.png'
 longdescription: Canada Open-Source Projects
 description: 'Canada Open-Source Projects (CANOSP) is an academic program that connects top students from Canadian universities to work on open-source projects over the course of a semester.
 <br /><br />
-CANOSP is an excellent opportunity for participants to meet other students fromacross the country, connect with industry, learn about open-source development, bolster their portfolios, and strengthen their skills as software engineers.'
+CANOSP is an excellent opportunity for participants to meet other students from across the country, connect with industry, learn about open-source development, bolster their portfolios, and strengthen their skills as software engineers.'
 landingimage: '/assets/CANOSP.png'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://canosp.ca" # The base hostname & protocol for your site, e.g. http://example.com
