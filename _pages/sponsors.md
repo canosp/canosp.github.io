@@ -20,5 +20,3 @@ There are four levels of sponsorship for CANOSP:
 | $10,000 | Diamond | Gold + Recognition on t-shirts |
 
 We are very grateful for your support, which makes it possible for us to run this initiative to bring together students from all across Canada and give them valuable experience in distributed development, open-source software, and teamwork.
-
-***
