@@ -18,5 +18,3 @@ We welcome free and open-source (FOSS) projects with public repositories to part
 
 ### Project Mentor Form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdUmLz6P6i0fOpeaG8uNNmuG5dftTxl7ZW2THIgCT5DdSCd-g/viewform?embedded=true" width="800" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-***
