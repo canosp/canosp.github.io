@@ -4,11 +4,11 @@
   margin-bottom: 30px;
   border-radius: 30px;
   overflow: hidden;
-  /* box-shadow: 0 5px 10px 0 rgba(0,0,0,.15);
+  box-shadow: 0 5px 10px 0 rgba(0,0,0,.15);
   background-color: $dark;
   @media only screen and (max-width: $desktop) {
     border-radius: 30px;
-  } */
+  }
   @media only screen and (max-width: $mobile) {
     box-shadow: none;
   }
@@ -25,7 +25,7 @@
     right: 0;
     z-index: 1;
     border-radius: 30px;
-    /* background-color: rgba(#10111e, 0.1); */
+    background-color: rgba(#10111e, 0.6);
   }
   @media only screen and (max-width: $desktop) {
     &::before {
@@ -35,8 +35,8 @@
 }
 
 .hero__image {
-  min-height: 150px;
-  padding-top: 25%;
+  padding-top: 50%;
+  min-height: 280px;
   user-select: none;
   img {
     position: absolute;
@@ -48,20 +48,19 @@
   @media only screen and (max-width: $desktop) {
     padding-top: 55%;
   }
-  /* @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: $tablet) {
     padding-top: 65%;
-  } */
+  }
 }
 
 .hero__content {
   position: absolute;
-  bottom: 0;
-  /* top: 50%; */
+  top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
   z-index: 1;
   width: 100%;
-  max-width: 850px;
+  max-width: 650px;
   padding: 0 20px;
   text-align: center;
 }
@@ -80,8 +79,6 @@
   font-size: 18px;
   color: rgba($white, .8);
   margin: 0;
-  height: 100%;
-  vertical-align: text-bottom;
   @media only screen and (max-width: $mobile) {
     font-size: 15px;
     line-height: 21px;
@@ -105,5 +102,4 @@
   @media only screen and (max-width: $mobile) {
     margin: 20px 0 50px;
   }
-	
 }

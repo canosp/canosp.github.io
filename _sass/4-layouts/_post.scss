@@ -35,9 +35,11 @@
   position: relative;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   .post-tags__tag {
     height: 23px;
     margin-right: 5px;
+    margin-bottom: 5px;
     padding: 0 10px;
     text-transform: uppercase;
     font-family: 'Poppins', Arial, sans-serif;
@@ -68,7 +70,7 @@
 
 .post-title {
   font-size: 43px;
-  margin: 15px 0 15px;
+  margin: 10px 0 15px;
   text-align: center;
   @media only screen and (max-width: $tablet) {
     font-size: 38px;
@@ -136,38 +138,6 @@
     &:hover {
       color: $text-color;
       text-decoration: underline;
-    }
-  }
-}
-
-.post-full-content {
-  .post-content {
-    p {
-      text-align: center;
-      color: rgba($text-color, .8);
-    }
-  }
-
-  .post-upgrade-cta-content {
-    padding: 80px 20px;
-    text-align: center;
-    border-radius: 5px;
-    overflow: hidden;
-    box-shadow: 0 5px 10px 0px rgba(0,0,0,.15);
-    background-color: $dark;
-    h2 {
-      font-size: 27px;
-    }
-    .signin__bottom-text {
-      margin-top: 10px;
-    }
-
-    @media only screen and (max-width: $mobile) {
-      padding: 60px 20px;
-      h2 {
-        font-size: 24px;
-        margin-bottom: 20px;
-      }
     }
   }
 }

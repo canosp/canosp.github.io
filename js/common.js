@@ -6,6 +6,7 @@ $(document).ready(function() {
     menuList = $(".menu-overlay"),
     searchOpenIcon = $(".nav__icon-search"),
     searchCloseIcon = $(".search__close"),
+    searchInput = $(".search__text"),
     searchBox = $(".search");
 
 
@@ -38,11 +39,20 @@ $(document).ready(function() {
 
   function searchOpen() {
     searchBox.addClass("is-visible");
+    setTimeout(function () {
+      searchInput.focus();
+    }, 300);
   }
 
   function searchClose() {
     searchBox.removeClass("is-visible");
   }
+
+  $('.search, .search__box').on('click keyup', function (event) {
+    if (event.target == this || event.keyCode == 27) {
+      $('.search').removeClass('is-visible');
+    }
+  });
 
 
   /* =======================
@@ -51,6 +61,18 @@ $(document).ready(function() {
   setTimeout(function(){
     $('body').addClass('is-in');
   },150)
+
+
+  // =====================
+  // Simple Jekyll Search
+  // =====================
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("js-search-input"),
+    resultsContainer: document.getElementById("js-results-container"),
+    json: "/search.json",
+    searchResultTemplate: '<div class="search-results__item"><a class="search-results__link" href="{url}"><div class="result-title">{title}</div> <span class="search-results-date"> <time datetime="{date}">{date}</time></span></a></div>',
+    noResultsText: '<li class="no-results"><h3>No results found</h3></li>'
+  });
 
 
   // =====================

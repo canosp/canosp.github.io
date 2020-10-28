@@ -1,21 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: CANOSP
-logo: '/assets/logo.png'
-longdescription: Canada Open-Source Projects
-description: 'Canada Open-Source Projects (CANOSP) is an academic program that connects top students from Canadian universities to work on open-source projects over the course of a semester.
-<br /><br />
-CANOSP is an excellent opportunity for participants to meet other students from across the country, connect with industry, learn about open-source development, bolster their portfolios, and strengthen their skills as software engineers.'
-landingimage: '/assets/CANOSP.png'
+title: Aditu
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Aditu is a stylish and modern dark theme with a clean and unique design.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://canosp.ca" # The base hostname & protocol for your site, e.g. http://example.com
-hero: ''
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
+
 
 #-------------------------------
 # Author Settings
 author:
-  name: CANOSP
-  avatar: '/assets/logo.png'
+  name: Brandon Watson
+  avatar: '/images/15.jpg'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  title: Aditu
+  description: Thoughts, stories and ideas.
+  image: '/images/01.jpg'
+
 
 #-------------------------------
 # Contact Settings
@@ -32,17 +37,17 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-# - {icon: "ion-logo-twitter", link: "https://twitter.com"}
-# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-# - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
-# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-# - {icon: "ion ion-logo-github", link: "https://github.com/canosp"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {icon: "ion-logo-github", link: "https://github.com"}
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -52,7 +57,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: false # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 

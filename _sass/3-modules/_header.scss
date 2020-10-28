@@ -9,16 +9,6 @@
   }
 }
 
-.headerinfo {
-	position: relative; 
-	margin-bottom: 10px; 
-	width: 100%; 
-	background-color: red; 
-	font-size: 13px; 
-	/* max-width: 1500px; */
-	text-align: center;
-	}
-
 .header__inner {
   position: relative;
   display: flex;
@@ -161,21 +151,6 @@
         position: relative;
         font-size: 18px;
         color: $text-color;
-        &.signup-link {
-          height: 30px;
-          line-height: 30px;
-          display: inline-block;
-          border-radius: 30px;
-          padding: 0 15px;
-          background-color: $brand-color;
-          color: $white;
-          &:hover {
-            background-color: darken($brand-color, 5%);
-          }
-          &::before {
-            content: none;
-          }
-        }
       }
 
       @media only screen and (max-width: $mobile) {

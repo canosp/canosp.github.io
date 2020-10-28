@@ -17,8 +17,8 @@ layout: default
       <div class="container__inner">
         <div class="contaniner__inner-box">
           <div class="row grid">
-            {% for post in site.tags[page.tag] %}
-               {% include article-content.html %}
+            {% for post in page.posts %}
+              {% include article-content.html %}
             {% endfor %}
           </div>
         </div>

@@ -1,5 +1,3 @@
-{% include participating_list.html %}
-
 <!-- begin footer-widgets -->
 <section class="footer-widgets">
   <div class="container">
@@ -13,22 +11,22 @@
               {{site.title}}
             {% endif %}
           </div>
-          <p class="footer-desc">{{site.description}}</p>
+          <p class="footer-desc">{{site.hero.description}}</p>
         </div>
       </div>
       <div class="col col-4 col-d-6 col-t-12">
         <div class="widget widget-nav">
           <div class="widget__head">
-            <h4 class="widget__title">Menu</h4>
+            <h3 class="widget__title">Menu</h3>
           </div>
           {%include navigation.html%}
         </div>
       </div>
+      {% if site.mailchimp %}
       <div class="col col-4 col-d-6 col-t-12">
-        {% if site.mailchimp %}
         <div class="widget widget-subscribe">
           <div class="widget__head">
-            <h4 class="widget__title">Get Interesting News</h4>
+            <h3 class="widget__title">Get Interesting News</h3>
           </div>
           <p class="subscribe-subtitle">Subscribe to our newsletter and we’ll send you the emails of latest posts.</p>
           <form class="subscribe-form validate" action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}"
@@ -42,8 +40,8 @@
             </div>
           </form>
         </div>
-        {% endif %}
       </div>
+      {% endif %}
     </div>
   </div>
 </section>
@@ -56,7 +54,7 @@
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
       <div class="footer__inner">
         {% include social-links.html %}
-        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>. Theme by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>, modified by <strong>{{site.title}}</strong>.</div>
+        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
         </div>
       </div>
     </div>
