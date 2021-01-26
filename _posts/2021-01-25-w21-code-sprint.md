@@ -22,8 +22,8 @@ AdoptOpenJDK is a community-driven, open-source project dedicated to building, t
 - Napat Karnsakultorn (University of British Columbia)
 - Xichen Pan (University of Alberta)
 - Yanan Wang (McGill University)
-- Yanshan Wan (University of Alberta
-)yout
+- Yanshan Wan (University of Alberta)
+
 #### Project Mentors
 - Shelley Lambert
 - Lan Xia
