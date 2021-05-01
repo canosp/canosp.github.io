@@ -6,7 +6,7 @@ weight: 5
 ---
 
 ### CANOSP Organizers
-The CANOSP Organizers are [Jeff Cho](https://www.jeffcho.com) and [Karim Ali](https://www.karimali.ca).
+The CANOSP Organizers are [Jeff Cho](https://www.jeffcho.com) and [Karim Ali](https://karimali.ca).
 
 ### Whom to Contact
 The nature of your question or concern determines which point of contact to whom you should reach out.  If you are unsure, please contact the CANOSP Organizers using the form at the bottom of this page, and we will direct your message to the appropriate person.
