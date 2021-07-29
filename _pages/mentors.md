@@ -15,6 +15,7 @@ We welcome free and open-source (FOSS) projects with public repositories to part
 - Hold weekly online meetings with students
 - Provide a mid-term and final evaluation for each student
 - Mentor and assist students throughout the semester
+- Participate in end-of-semester debriefs to help improve the program
 
 ### Project Mentor Form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdUmLz6P6i0fOpeaG8uNNmuG5dftTxl7ZW2THIgCT5DdSCd-g/viewform?embedded=true" width="800" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
