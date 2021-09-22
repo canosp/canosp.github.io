@@ -15,7 +15,9 @@ This semester, we have 4 exciting projects:
 <br /><br />
 
 ## Automated JIT Compiler Debugging Agent
-DESC
+The JIT compiler, and hence the JVM, is a non-deterministic program. While the output of a Java program is predictable each time the JVM executes it, the manner in which the JVM executes that program is not. There are a variety of reasons for this, including memory/CPU resource availability at execution time, timing of triggering JIT compilation, varying profiling metrics between runs, hardware support, and environmental settings.
+
+Because the JVM is a non-deterministic program, it is often found that defects in the JVM are intermittent. Intermittent defects are software defects that do not occur 100% of the time that the program/test is run. The reasons for intermittency are the same reasons outline above, i.e. the JIT is a non-deterministic program and hence compilations can look different in different environment settings. This project aims to automate JIT compiler debugging by reducing the problem space using key insights into the JIT compilation process.
 
 #### Participating Students
 - Qasim Khawaja (University of Alberta)
