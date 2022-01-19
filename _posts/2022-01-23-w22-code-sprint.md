@@ -4,6 +4,7 @@ title:  Code Sprint - Winter 2022
 date:   2022-01-24 12:00:00 -0700
 image:  '/assets/photos/w20.jpg'
 tags:   Codesprint
+published: false
 ---
 
 This semester, we have 3 exciting projects:
