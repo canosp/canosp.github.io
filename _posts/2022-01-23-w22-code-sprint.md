@@ -32,6 +32,7 @@ Adoptium is a community-driven, open-source project dedicated to building, testi
 - Shelley Lambert
 - Lan Xia
 - Sophia Guo
+- Mesbah Alam
 
 
 #### Code Sprint Presentation
@@ -59,6 +60,7 @@ This project looks to develop a common Language Server using the Language Server
 - Yee-Kang (YK) Chang
 - Kathryn Kodama
 - Paul Gooderham
+- Trevor Crawford
 
 
 #### Code Sprint Presentation
