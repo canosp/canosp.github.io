@@ -8,8 +8,8 @@ tags:   Codesprint
 
 This semester, we have 3 exciting projects:
 - [Eclipse Adoptium and Eclipse AQAvit](#eclipse-adoptium-and-eclipse-aqavit)
-- [Language Server for Eclipse Jakarta EE](#language-server-for-eclipse-jakarta-ee)
-- [Review Board](#review-board)
+- [Language Server for Eclipse Jakarta EE](#language-server-for-eclipse-jakarta-ee-ibm)
+- [Review Board](#review-board-beanbag)
 
 <br /><br />
 
@@ -35,7 +35,8 @@ Adoptium is a community-driven, open-source project dedicated to building, testi
 
 
 #### Code Sprint Presentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r4PkSn8wMIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4PkSn8wMIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<br /><br />  
 
 
 ## Language Server for Eclipse Jakarta EE (IBM)
@@ -62,7 +63,7 @@ This project looks to develop a common Language Server using the Language Server
 
 
 #### Code Sprint Presentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7UFDu0T_W54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7UFDu0T_W54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br /><br />
 
 
 ## Review Board (Beanbag)
@@ -87,4 +88,6 @@ Students working on Review Board will have the opportunity to learn about back-e
 - Christian Hammond
 
 #### Code Sprint Presentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7_TxyieqguU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_TxyieqguU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
+<br /><br />
