@@ -4,7 +4,6 @@ title:  Code Sprint - Winter 2022
 date:   2022-01-24 12:00:00 -0700
 image:  '/assets/photos/w20.jpg'
 tags:   Codesprint
-published: false
 ---
 
 This semester, we have 3 exciting projects:
@@ -36,8 +35,7 @@ Adoptium is a community-driven, open-source project dedicated to building, testi
 
 
 #### Code Sprint Presentation
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vL1Za4ULgtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br /><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4PkSn8wMIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Language Server for Eclipse Jakarta EE (IBM)
@@ -64,8 +62,7 @@ This project looks to develop a common Language Server using the Language Server
 
 
 #### Code Sprint Presentation
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E-KGtkflO98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br /><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7UFDu0T_W54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Review Board (Beanbag)
@@ -90,5 +87,4 @@ Students working on Review Board will have the opportunity to learn about back-e
 - Christian Hammond
 
 #### Code Sprint Presentation
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jG5E4WdLTL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br /><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_TxyieqguU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
